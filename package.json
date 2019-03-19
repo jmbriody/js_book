@@ -1,0 +1,23 @@
+{
+  "name": "js_book",
+  "version": "1.0.0",
+  "description": "JS Book Sample code",
+  "main": "index.js",
+  "dependencies": {
+    "underscore": "^1.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmbriody/js_book.git"
+  },
+  "author": "Jack Briody",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmbriody/js_book/issues"
+  },
+  "homepage": "https://github.com/jmbriody/js_book#readme"
+}
